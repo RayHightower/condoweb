@@ -1,21 +1,17 @@
----
-layout: default
----
-CondoWeb.com
-===
+I"M<h1 id="condowebcom">CondoWeb.com</h1>
 
-<hr>
+<hr />
 
-## This domain is for sale.
+<h2 id="this-domain-is-for-sale">This domain is for sale.</h2>
 
 <p><strong>Price:</strong> $ 5,000.00 (USD) or best offer.</p>
 <p>Bonus: Sale includes the <a href="http://twitter.com/condoweb">@CondoWeb</a> handle on Twitter. Seller proposes to handle the transaction through <a href="https://escrow.com">Escrow.com</a> with escrow fees to be paid by seller.</p>
 
 <p>(Separately, <a href="http://rocksolar.com">RockSolar.com</a> is also for sale.)</p>
 
-### CondoWeb.com Inquiries:
+<h3 id="condowebcom-inquiries">CondoWeb.com Inquiries:</h3>
 
-<table width="100%">
+<table>
 <tr>
 <td>&nbsp;</td>
 <td>
@@ -31,3 +27,4 @@ CondoWeb.com
 </tr>
 </table>
 
+:ET
